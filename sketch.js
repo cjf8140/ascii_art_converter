@@ -12,7 +12,7 @@ function setup() {
   // image(img, 0, 0, width, height);
   
   const w = width/img.width;
-  const itv = 11;
+  const itv = 7;
   img.loadPixels();
   
   for (let j=0; j < img.width; j+=itv) {
