@@ -10,7 +10,7 @@ let asciiDiv;
 function setup() {
   noCanvas();
   img = createCapture(VIDEO);
-  img.size(32,32);
+  img.size(64,64);
   
   asciiDiv=createDiv();
 }
