@@ -1,9 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #FFF;
+  background-color: #000;
+  color:#FFF;
   font-family: "Courier";
-  font-size: 20pt;
+  font-size: 16pt;
   line-height: 10pt;
 }
 canvas {
